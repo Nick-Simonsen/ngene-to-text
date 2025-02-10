@@ -1,0 +1,1352 @@
+[[AdvancedFormat]]
+[[Block:DCE Laptops]]
+[[Question:Matrix]]
+[[ID:DCE Laptops1]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,200</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">17 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel Core i7</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 7</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">4GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">16GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (1TB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (512GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 3080</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel UHD Graphics</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">5 Years</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">1 Year</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops2]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,200</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">17 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel Core i7</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel Core i7</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">32GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">4GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (256GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (1TB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 2060</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce GTX 1650</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">1 Year</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops3]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><span hidden>test</span><img style="width: 20px; height: 18px;" src="https://nottinghampsych.eu.qualtrics.com/ControlPanel/Graphic.php?IM=IM_fO2rnZxjQde5WR5" data-image-state="ready"></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><span hidden>test</span><img style="width: 20px; height: 18px;" src="https://nottinghampsych.eu.qualtrics.com/ControlPanel/Graphic.php?IM=IM_fO2rnZxjQde5WR5" data-image-state="ready"></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">17 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 5</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 7</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">8GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">4GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (500GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (256GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce GTX 1650</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 2060</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops4]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><span hidden>test</span><img style="width: 20px; height: 18px;" src="https://nottinghampsych.eu.qualtrics.com/ControlPanel/Graphic.php?IM=IM_fO2rnZxjQde5WR5" data-image-state="ready"></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">17 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel Core i7</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 7</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">32GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">16GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (256GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (512GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel UHD Graphics</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce GTX 1650</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">1 Year</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops5]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,200</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">13 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 5</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Inten Core i5</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">16GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">8GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (512GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (1TB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel UHD Graphics</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 3080</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">5 Years</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops6]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,200</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">17 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 5</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Inten Core i5</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">4GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">8GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (512GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (500GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 2060</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 3080</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">5 Years</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops7]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,200</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><span hidden>test</span><img style="width: 20px; height: 18px;" src="https://nottinghampsych.eu.qualtrics.com/ControlPanel/Graphic.php?IM=IM_fO2rnZxjQde5WR5" data-image-state="ready"></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">13 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel Core i7</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Inten Core i5</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">8GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">32GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (512GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (256GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 3080</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce GTX 1650</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">5 Years</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops8]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><span hidden>test</span><img style="width: 20px; height: 18px;" src="https://nottinghampsych.eu.qualtrics.com/ControlPanel/Graphic.php?IM=IM_fO2rnZxjQde5WR5" data-image-state="ready"></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">17 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 7</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel Core i7</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">8GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">32GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (256GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (500GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel UHD Graphics</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce GTX 1650</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">1 Year</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops9]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><span hidden>test</span><img style="width: 20px; height: 18px;" src="https://nottinghampsych.eu.qualtrics.com/ControlPanel/Graphic.php?IM=IM_fO2rnZxjQde5WR5" data-image-state="ready"></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,200</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">13 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Inten Core i5</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 7</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">16GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">4GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (256GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (500GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 3080</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel UHD Graphics</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">1 Year</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops10]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><span hidden>test</span><img style="width: 20px; height: 18px;" src="https://nottinghampsych.eu.qualtrics.com/ControlPanel/Graphic.php?IM=IM_fO2rnZxjQde5WR5" data-image-state="ready"></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">13 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">17 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Inten Core i5</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 5</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">8GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">32GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (1TB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (256GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 2060</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 3080</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">1 Year</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops11]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,200</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">17 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">13 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Inten Core i5</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel Core i7</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">16GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">8GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (500GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (512GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce GTX 1650</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce GTX 1650</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">1 Year</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">1 Year</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops12]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,200</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,200</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">17 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">13 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Inten Core i5</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 5</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">4GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">16GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (1TB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (500GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel UHD Graphics</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 2060</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">5 Years</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops13]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><span hidden>test</span><img style="width: 20px; height: 18px;" src="https://nottinghampsych.eu.qualtrics.com/ControlPanel/Graphic.php?IM=IM_fO2rnZxjQde5WR5" data-image-state="ready"></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><span hidden>test</span><img style="width: 20px; height: 18px;" src="https://nottinghampsych.eu.qualtrics.com/ControlPanel/Graphic.php?IM=IM_fO2rnZxjQde5WR5" data-image-state="ready"></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">13 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 5</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel Core i7</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">32GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">16GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (500GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (256GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel UHD Graphics</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel UHD Graphics</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">5 Years</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops14]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><span hidden>test</span><img style="width: 20px; height: 18px;" src="https://nottinghampsych.eu.qualtrics.com/ControlPanel/Graphic.php?IM=IM_fO2rnZxjQde5WR5" data-image-state="ready"></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">17 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Inten Core i5</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel Core i7</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">8GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">8GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (256GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (1TB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce GTX 1650</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel UHD Graphics</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">1 Year</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops15]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><span hidden>test</span><img style="width: 20px; height: 18px;" src="https://nottinghampsych.eu.qualtrics.com/ControlPanel/Graphic.php?IM=IM_fO2rnZxjQde5WR5" data-image-state="ready"></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">17 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 7</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 5</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">4GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">16GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (500GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (1TB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce GTX 1650</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 3080</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">1 Year</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">5 Years</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops16]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><span hidden>test</span><img style="width: 20px; height: 18px;" src="https://nottinghampsych.eu.qualtrics.com/ControlPanel/Graphic.php?IM=IM_fO2rnZxjQde5WR5" data-image-state="ready"></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">17 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 7</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Inten Core i5</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">16GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">4GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (1TB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (512GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce GTX 1650</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 3080</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">1 Year</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">1 Year</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops17]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><span hidden>test</span><img style="width: 20px; height: 18px;" src="https://nottinghampsych.eu.qualtrics.com/ControlPanel/Graphic.php?IM=IM_fO2rnZxjQde5WR5" data-image-state="ready"></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">13 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 5</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 7</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">4GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">32GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (256GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (512GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel UHD Graphics</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 2060</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">3 Years</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">5 Years</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:DCE Laptops18]]
+
+            Among the following laptops, which one would you prefer to purchase? </br >
+            <br />
+            <style type="text/css">
+            table {
+                border: none;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 5px;
+            }
+            th {
+                text-align: left;
+            }
+            td:first-child {
+                border-left: none;
+                border-top: none;
+            }
+            </style>
+            <table>
+            <tbody>
+            <tr>
+            <td style="width:180px; border-bottom: 1px solid black;">&nbsp;</td>
+            <td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 1</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;"><strong>Option 2</strong></td>
+</tr><tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Price</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">$1,500</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Screen size</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">13 inches</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">15 inches</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Processor</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">AMD Ryzen 7</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">Intel Core i7</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>RAM</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">32GB</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">16GB</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Storage type</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">HDD (500GB)</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">SSD (256GB)</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Graphics card</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce RTX 3080</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">NVIDIA GeForce GTX 1650</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid black;"><strong>Warranty period</strong></td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">1 Year</td>
+<td bgcolor="white" style="width:270px; text-align: center; border-left: 4px solid black; border-top: 4px solid black; border-right: 4px solid black; border-bottom: 1px solid black;">5 Years</td>
+</tr>
+
+            </tbody>
+            </table>
+            [[Choices]]
+            Your choice:
+            [[AdvancedAnswers]]
+            [[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+If these are the only options for laptops, I prefer not to purchase any at this time.
+[[PageBreak]]

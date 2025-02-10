@@ -1,0 +1,55 @@
+Task,PID,Alt,Price,Screen size,Processor,RAM,Storage type,Graphics card,Warranty period,Choice
+DCE Laptops 1,NickSimonsen123,1,"$1,500",17 inches,Intel Core i7,4GB,HDD (1TB),NVIDIA GeForce RTX 3080,5 Years,0
+DCE Laptops 1,NickSimonsen123,2,"$1,200",15 inches,AMD Ryzen 7,16GB,SSD (512GB),Intel UHD Graphics,1 Year,1
+DCE Laptops 1,NickSimonsen123,3,0,0,0,0,0,0,0,0
+DCE Laptops 2,NickSimonsen123,1,"$1,200",17 inches,Intel Core i7,32GB,SSD (256GB),NVIDIA GeForce RTX 2060,3 Years,0
+DCE Laptops 2,NickSimonsen123,2,"$1,500",15 inches,Intel Core i7,4GB,HDD (1TB),NVIDIA GeForce GTX 1650,1 Year,0
+DCE Laptops 2,NickSimonsen123,3,0,0,0,0,0,0,0,1
+DCE Laptops 3,NickSimonsen123,1,$800,17 inches,AMD Ryzen 5,8GB,HDD (500GB),NVIDIA GeForce GTX 1650,3 Years,0
+DCE Laptops 3,NickSimonsen123,2,$800,15 inches,AMD Ryzen 7,4GB,SSD (256GB),NVIDIA GeForce RTX 2060,3 Years,1
+DCE Laptops 3,NickSimonsen123,3,0,0,0,0,0,0,0,0
+DCE Laptops 4,NickSimonsen123,1,"$1,500",15 inches,Intel Core i7,32GB,SSD (256GB),Intel UHD Graphics,1 Year,1
+DCE Laptops 4,NickSimonsen123,2,$800,17 inches,AMD Ryzen 7,16GB,SSD (512GB),NVIDIA GeForce GTX 1650,3 Years,0
+DCE Laptops 4,NickSimonsen123,3,0,0,0,0,0,0,0,0
+DCE Laptops 5,NickSimonsen123,1,"$1,200",13 inches,AMD Ryzen 5,16GB,SSD (512GB),Intel UHD Graphics,5 Years,0
+DCE Laptops 5,NickSimonsen123,2,"$1,500",15 inches,Inten Core i5,8GB,HDD (1TB),NVIDIA GeForce RTX 3080,3 Years,1
+DCE Laptops 5,NickSimonsen123,3,0,0,0,0,0,0,0,0
+DCE Laptops 6,NickSimonsen123,1,"$1,500",17 inches,AMD Ryzen 5,4GB,SSD (512GB),NVIDIA GeForce RTX 2060,3 Years,0
+DCE Laptops 6,NickSimonsen123,2,"$1,200",15 inches,Inten Core i5,8GB,HDD (500GB),NVIDIA GeForce RTX 3080,5 Years,1
+DCE Laptops 6,NickSimonsen123,3,0,0,0,0,0,0,0,0
+DCE Laptops 7,NickSimonsen123,1,"$1,200",15 inches,Intel Core i7,8GB,SSD (512GB),NVIDIA GeForce RTX 3080,3 Years,0
+DCE Laptops 7,NickSimonsen123,2,$800,13 inches,Inten Core i5,32GB,SSD (256GB),NVIDIA GeForce GTX 1650,5 Years,0
+DCE Laptops 7,NickSimonsen123,3,0,0,0,0,0,0,0,1
+DCE Laptops 8,NickSimonsen123,1,"$1,500",17 inches,AMD Ryzen 7,8GB,SSD (256GB),Intel UHD Graphics,1 Year,1
+DCE Laptops 8,NickSimonsen123,2,$800,15 inches,Intel Core i7,32GB,HDD (500GB),NVIDIA GeForce GTX 1650,3 Years,0
+DCE Laptops 8,NickSimonsen123,3,0,0,0,0,0,0,0,0
+DCE Laptops 9,NickSimonsen123,1,$800,15 inches,Inten Core i5,16GB,SSD (256GB),NVIDIA GeForce RTX 3080,1 Year,0
+DCE Laptops 9,NickSimonsen123,2,"$1,200",13 inches,AMD Ryzen 7,4GB,HDD (500GB),Intel UHD Graphics,3 Years,0
+DCE Laptops 9,NickSimonsen123,3,0,0,0,0,0,0,0,1
+DCE Laptops 10,NickSimonsen123,1,$800,13 inches,Inten Core i5,8GB,HDD (1TB),NVIDIA GeForce RTX 2060,3 Years,0
+DCE Laptops 10,NickSimonsen123,2,"$1,500",17 inches,AMD Ryzen 5,32GB,SSD (256GB),NVIDIA GeForce RTX 3080,1 Year,1
+DCE Laptops 10,NickSimonsen123,3,0,0,0,0,0,0,0,0
+DCE Laptops 11,NickSimonsen123,1,"$1,500",17 inches,Inten Core i5,16GB,HDD (500GB),NVIDIA GeForce GTX 1650,1 Year,0
+DCE Laptops 11,NickSimonsen123,2,"$1,200",13 inches,Intel Core i7,8GB,SSD (512GB),NVIDIA GeForce GTX 1650,1 Year,1
+DCE Laptops 11,NickSimonsen123,3,0,0,0,0,0,0,0,0
+DCE Laptops 12,NickSimonsen123,1,"$1,200",17 inches,Inten Core i5,4GB,HDD (1TB),Intel UHD Graphics,3 Years,0
+DCE Laptops 12,NickSimonsen123,2,"$1,200",13 inches,AMD Ryzen 5,16GB,HDD (500GB),NVIDIA GeForce RTX 2060,5 Years,1
+DCE Laptops 12,NickSimonsen123,3,0,0,0,0,0,0,0,0
+DCE Laptops 13,NickSimonsen123,1,$800,15 inches,AMD Ryzen 5,32GB,HDD (500GB),Intel UHD Graphics,5 Years,0
+DCE Laptops 13,NickSimonsen123,2,$800,13 inches,Intel Core i7,16GB,SSD (256GB),Intel UHD Graphics,3 Years,0
+DCE Laptops 13,NickSimonsen123,3,0,0,0,0,0,0,0,1
+DCE Laptops 14,NickSimonsen123,1,"$1,500",15 inches,Inten Core i5,8GB,SSD (256GB),NVIDIA GeForce GTX 1650,3 Years,0
+DCE Laptops 14,NickSimonsen123,2,$800,17 inches,Intel Core i7,8GB,HDD (1TB),Intel UHD Graphics,1 Year,0
+DCE Laptops 14,NickSimonsen123,3,0,0,0,0,0,0,0,1
+DCE Laptops 15,NickSimonsen123,1,$800,17 inches,AMD Ryzen 7,4GB,HDD (500GB),NVIDIA GeForce GTX 1650,1 Year,0
+DCE Laptops 15,NickSimonsen123,2,"$1,500",15 inches,AMD Ryzen 5,16GB,HDD (1TB),NVIDIA GeForce RTX 3080,5 Years,1
+DCE Laptops 15,NickSimonsen123,3,0,0,0,0,0,0,0,0
+DCE Laptops 16,NickSimonsen123,1,"$1,500",15 inches,AMD Ryzen 7,16GB,HDD (1TB),NVIDIA GeForce GTX 1650,1 Year,1
+DCE Laptops 16,NickSimonsen123,2,$800,17 inches,Inten Core i5,4GB,SSD (512GB),NVIDIA GeForce RTX 3080,1 Year,0
+DCE Laptops 16,NickSimonsen123,3,0,0,0,0,0,0,0,0
+DCE Laptops 17,NickSimonsen123,1,$800,15 inches,AMD Ryzen 5,4GB,SSD (256GB),Intel UHD Graphics,3 Years,0
+DCE Laptops 17,NickSimonsen123,2,"$1,500",13 inches,AMD Ryzen 7,32GB,SSD (512GB),NVIDIA GeForce RTX 2060,5 Years,0
+DCE Laptops 17,NickSimonsen123,3,0,0,0,0,0,0,0,1
+DCE Laptops 18,NickSimonsen123,1,"$1,500",13 inches,AMD Ryzen 7,32GB,HDD (500GB),NVIDIA GeForce RTX 3080,1 Year,0
+DCE Laptops 18,NickSimonsen123,2,"$1,500",15 inches,Intel Core i7,16GB,SSD (256GB),NVIDIA GeForce GTX 1650,5 Years,0
+DCE Laptops 18,NickSimonsen123,3,0,0,0,0,0,0,0,1
